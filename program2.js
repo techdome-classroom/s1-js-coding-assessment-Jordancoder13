@@ -3,7 +3,11 @@
  * @return {number}
  */
 var romanToInt = function(s) {
+<<<<<<< HEAD
     const roman = {
+=======
+     const roman = {
+>>>>>>> c912a51257a30080470c180451190f2a5ca8b194
         'I': 1,
         'V': 5,
         'X': 10,

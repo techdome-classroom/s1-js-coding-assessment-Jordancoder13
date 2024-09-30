@@ -3,9 +3,13 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    
     let stack = [];
     
+<<<<<<< HEAD
+    let stack = [];
+    
+=======
+>>>>>>> c912a51257a30080470c180451190f2a5ca8b194
     let matchingBracket = {
         ')': '(',
         '}': '{',
